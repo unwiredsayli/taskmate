@@ -1,1 +1,1 @@
-web: gunicorn taskmate.wsgi --log-file -
+web: node index.js
